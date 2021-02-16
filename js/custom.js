@@ -126,7 +126,7 @@ var ele = $('#' + post_id);
     ele.parents('.price_col').find('.checkbox_col').removeClass('selected');
     ele.parents('.checkbox_col').addClass('selected');
 
-var html1='<p><b>Bank Details</b></p><p>Account Number:- 185001505280 </p><p>Name:- Saurbh Kumar Singh </p><p>Branch:- Kothanur Branch Bangalore </p><p>IFSC Code:- ICIC0001850 </p><p>Bank:- ICICI BANK</p></div>';
+var html1='<p>Thanks for choosing <b>Mister Profit</b>. Earn and make profits with us. </p></div>';
 $('.cart .cart_body').html(html1);
 
 
